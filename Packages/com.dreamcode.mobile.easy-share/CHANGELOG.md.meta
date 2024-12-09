@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de19c54c29a81d14ebd7a41030c3ff9c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/CHANGELOG.md
+  uploadId: 692466

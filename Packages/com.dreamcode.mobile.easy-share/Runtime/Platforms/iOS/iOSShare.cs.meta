@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34a72179451e44650a1a35a9f378d934
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Runtime/Platforms/iOS/iOSShare.cs
+  uploadId: 692466

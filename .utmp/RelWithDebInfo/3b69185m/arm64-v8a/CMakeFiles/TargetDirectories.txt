@@ -1,0 +1,8 @@
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/amirbaram/Documents/Unity Projects/share3/.utmp/RelWithDebInfo/3b69185m/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

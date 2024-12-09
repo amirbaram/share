@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 534c5be4432acc9479d4f48a29a8747e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Samples~/share-binary-content/Scenes/share-binary-content.unity
+  uploadId: 692466

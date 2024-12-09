@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f06ad4e991a7ca54baf99043524f010e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Samples~/share-binary-content/Code/ShareBinaryContentView.cs
+  uploadId: 692466

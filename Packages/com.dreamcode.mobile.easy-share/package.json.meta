@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 577f776c6b2e4df4d8825a4aefce3442
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/package.json
+  uploadId: 692466

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34413cbfc2268a74f90816ec13804237
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Samples~/share-text/Code/ShareTextView.cs
+  uploadId: 692466

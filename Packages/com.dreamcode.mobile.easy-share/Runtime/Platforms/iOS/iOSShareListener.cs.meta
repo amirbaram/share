@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2df8f7a2785d498d85617458c13e328
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Runtime/Platforms/iOS/iOSShareListener.cs
+  uploadId: 692466

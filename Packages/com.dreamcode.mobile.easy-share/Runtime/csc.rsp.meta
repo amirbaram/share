@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be6785428695c76458d4b39d8b9545d9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Runtime/csc.rsp
+  uploadId: 692466

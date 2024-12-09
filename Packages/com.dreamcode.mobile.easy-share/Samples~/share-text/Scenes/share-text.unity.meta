@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee5c984cb2b006c4393ae08c3adba94b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 289206
+  packageName: Easy Share
+  packageVersion: 1.0.1
+  assetPath: Packages/com.dreamcode.mobile.easy-share/Samples~/share-text/Scenes/share-text.unity
+  uploadId: 692466
